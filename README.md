@@ -1,30 +1,55 @@
+# `console.log`("Olá, Mundo! Michael Cruz, aqui!");
+## `Seja bem-vindo!`
 
-# Michael Cruz
-Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
+- Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
 
-Apaixonado por gatos, café, artem em geral e muita música pra acompanhar o dia-a-dia.
-
-Cursando Técnico em Desenvolvimento de Sistemas pela ETEC-SP e fazendo vários cursos aqui na DIO para aumentar meuleque de conhecimento e possibilidades.
-Atualmente fazendo o Bootcamp Java Developer emparceria com o Santander.
+* Apaixonado por gatos, café, artem em geral e muita música pra acompanhar o dia-a-dia.
 
 
-### Conecte-se comigo
-[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/michaelcaxa)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=red)](michaelcruz.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/michael-cruz-90377423a/)
+#### `Atualmente`
 
-### Habilidades
-![HTML5](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5&logoColor=red)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=yellow)
-[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=red)](https://git-scm.com/doc) 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://docs.github.com/)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+* Cursando Técnico em Desenvolvimento de Sistemas pela ETEC-SP
+* Cursando desenvolvimento de Software Back-end ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+* Bootcamp Java Developer DIO - Santander ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-MichaelCruz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+Esta página está em construção e pretendo contribuir cada vez mais com essa comunidade, trazendo e participando de projetos aqui disponíveis.
 
 
-### Meus Principais Desafios de Projeto DIO
-[![Repo DIO Git GitHub](https://github-readme-stats.vercel.app/api/pin/?username=elidianaandrade&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/elidianaandrade/dio-lab-open-source)
-[![Repo DIO Roadmaps](https://github-readme-stats.vercel.app/api/pin/?username=digitalinnovationone&repo=roadmaps&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/digitalinnovationone/roadmaps)
+### `Contatos`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/michael-vpcruz/)
+[![Gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:michaelcruz.dev@gmail.com)
+
+
+## `Principais Conhecimentos`
+### `Linguagens`
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### `Banco de dados / Cloud`
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+
+### `Ferramentas, Frameworks & Bibliotecas`
+
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![NestJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MichaelCruz&langs_count=8&theme=kacho_ga)
+![Michael Cruz stats](https://github-readme-stats.vercel.app/api?username=dev-MichaelCruz&show_icons=true&theme=kacho_ga)
+
+
+## `Principais projetos`
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=api-rest-banco&theme=moltack)](https://github.com/dev-MichaelCruz/api-rest-banco)
