@@ -3,7 +3,7 @@
 
 - Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
 
-* Apaixonado por gatos, café, artem em geral e muita música pra acompanhar o dia-a-dia.
+* Apaixonado por gatos, café, arte em geral e muita música pra acompanhar o dia-a-dia.
 
 
 #### `Atualmente`
