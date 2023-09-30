@@ -6,7 +6,6 @@
 * Apaixonado por gatos, café, arte em geral e muita música pra acompanhar o dia-a-dia.
 
 
-
 #### `Atualmente`
 
 * Cursando Técnico em Desenvolvimento de Sistemas pela ETEC-SP
