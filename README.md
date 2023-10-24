@@ -53,3 +53,4 @@ Esta página está em construção e pretendo contribuir cada vez mais com essa 
 ## `Principais projetos`
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=api-rest-banco&theme=moltack)](https://github.com/dev-MichaelCruz/api-rest-banco)
+[![Readme Card](https://github.com/dev-MichaelCruz/desafio-modulo03)]
