@@ -53,3 +53,4 @@ Esta página está em construção e pretendo contribuir cada vez mais com essa 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=api-rest-banco&theme=moltack)](https://github.com/dev-MichaelCruz/api-rest-banco)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=calculator-angular&theme=moltack)](https://github.com/dev-MichaelCruz/calculator-angular)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=api-quarkus-social&theme=moltack)](https://github.com/dev-MichaelCruz/api-quarkus-social)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-MichaelCruz&repo=book-list&theme=moltack)](https://github.com/dev-MichaelCruz/book-list)
