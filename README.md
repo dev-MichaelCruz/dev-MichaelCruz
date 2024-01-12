@@ -3,14 +3,12 @@
 
 - Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
 
-* Apaixonado por gatos, café, arte em geral e muita música pra acompanhar o dia-a-dia.
+* Gatos, café, arte em geral e muita música pra acompanhar o dia-a-dia.
 
 
 #### `Atualmente`
 
 * Cursando Técnico em Desenvolvimento de Sistemas pela ETEC-SP
-* Cursando desenvolvimento de Software Back-end ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-* Bootcamp Java Developer DIO - Santander ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 Esta página está em construção e pretendo contribuir cada vez mais com essa comunidade, trazendo e participando de projetos aqui disponíveis.
 
