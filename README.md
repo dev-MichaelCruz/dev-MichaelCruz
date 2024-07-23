@@ -7,7 +7,7 @@
 
 * Cursando Bacharelado em Tenologia da Informação pena UNIVESP
 
-* ## `Principais Conhecimentos`
+## `Principais Conhecimentos`
 ### `Linguagens`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
