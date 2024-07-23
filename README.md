@@ -1,25 +1,13 @@
 # `console.log`("Olá, Mundo! Michael Cruz, aqui!");
 ## `Seja bem-vindo!`
 
-- Morador do ABC Paulista, São Bernardo do Campo, formado em Química, Artista Plástico e agora, trilhando carreira pra me tornar um Desenvolvedor de Software Back-end.
-
-* Gatos, café, arte em geral e muita música pra acompanhar o dia-a-dia.
-
+- Morador do ABC Paulista, São Bernardo do Campo, Técnico em Desenvolvimento de Sistemas e amante de música, gatos e café.
 
 #### `Atualmente`
 
-* Cursando Técnico em Desenvolvimento de Sistemas pela ETEC-SP
+* Cursando Bacharelado em Tenologia da Informação pena UNIVESP
 
-Esta página está em construção e pretendo contribuir cada vez mais com essa comunidade, trazendo e participando de projetos aqui disponíveis.
-
-
-### `Contatos`
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/michael-vpcruz/)
-[![Gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:michaelcruz.dev@gmail.com)
-
-
-## `Principais Conhecimentos`
+* ## `Principais Conhecimentos`
 ### `Linguagens`
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -47,6 +35,10 @@ Esta página está em construção e pretendo contribuir cada vez mais com essa 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-MichaelCruz&langs_count=8&theme=kacho_ga)
 ![Michael Cruz stats](https://github-readme-stats.vercel.app/api?username=dev-MichaelCruz&show_icons=true&theme=kacho_ga)
 
+### `Contatos`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whiteue)](https://www.linkedin.com/in/michael-vpcruz/)
+[![Gmail](https://camo.githubusercontent.com/571384769c09e0c66b45e39b5be70f68f552db3e2b2311bc2064f0d4a9f5983b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465)](mailto:michaelcruz.dev@gmail.com)
 
 ## `Principais projetos`
 
