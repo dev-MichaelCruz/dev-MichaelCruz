@@ -61,8 +61,6 @@
                 width="64" height="64" alt="HTML5">
             <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" 
                 width="64" height="64" alt="CSS3">
-            <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png"
-                width="64" height="64" alt="php">
         </div>
     </div>
     <div style="background-color: #102133;
